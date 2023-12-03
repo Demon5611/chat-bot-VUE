@@ -121,7 +121,7 @@ button:hover {
   padding: 5px 10px;
   border-radius: 5px;
   float: right;
-  margin-bottom: 1ch; /* Уменьшил отступ между сообщениями пользователя */
+  margin-bottom: 1ch;
   margin-top: 1ch;
 }
 
@@ -130,7 +130,7 @@ button:hover {
   padding: 10px 10px;
   border-radius: 5px;
   float: left;
-  margin-bottom: 1ch; /* Уменьшил отступ между сообщениями бота */
+  margin-bottom: 1ch;
   margin-top: 1ch;
 }
 
